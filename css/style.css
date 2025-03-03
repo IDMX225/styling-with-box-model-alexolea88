@@ -5,13 +5,15 @@
 }
 
 .box-one {
-    background-color: blueviolet;
-    border: 20px solid black;
+    background-color: red;
+    border: 20px solid purple;
     padding: 20px;
     margin: 20px;
 }
 
 .box-two {
-    background-color: magenta;
-    border: 0 solid red;
+    background-color: blue;
+    border: 20px solid yellow;
+    padding: 20px;
+    margin: 20px;
 }
